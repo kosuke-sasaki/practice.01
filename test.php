@@ -4,4 +4,5 @@
     
     print $ichinichi_no_byousuu;
 
+
 ?>
