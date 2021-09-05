@@ -1,8 +1,7 @@
 <?php
 
-    $ichinichi_no_byousuu = 86400;
+    $hensuu = "何らかのデータ";
+    $hensuu = 86400;
+    print $hensuu;
     
-    print $ichinichi_no_byousuu;
-
-
 ?>
