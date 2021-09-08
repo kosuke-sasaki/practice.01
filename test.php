@@ -1,7 +1,7 @@
 <?php
 
-    $hensuu = "何らかのデータ";
-    $hensuu = 86400;
-    print $hensuu;
-    
+    $str1 = 'テキスト';
+    $str2 = "テキスト";
+    var_dump($str1);
+    var_dump($str2);
 ?>
